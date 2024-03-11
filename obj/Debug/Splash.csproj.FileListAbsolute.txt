@@ -1,0 +1,16 @@
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\bin\Debug\Splash.exe.config
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\bin\Debug\Splash.exe
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\bin\Debug\Splash.pdb
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.csproj.AssemblyReference.cache
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.CategoryForm.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.Splash.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.Loginform.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.ProductForm.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.Properties.Resources.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.SallerForm.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.SellingForm.resources
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.exe
+C:\Users\Lenovi\Desktop\GUI Coursework\Supremarket Application\Splash\Splash\obj\Debug\Splash.pdb
